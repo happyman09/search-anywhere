@@ -1,8 +1,10 @@
-![Stars](https://img.shields.io/github/stars/happyman09/search-anywhere?style=flat-square)
-![Issues](https://img.shields.io/github/issues/happyman09/search-anywhere?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/happyman09/search-anywhere?style=flat-square)
 ![License](https://img.shields.io/github/license/happyman09/auto-wallpaper-themer?style=flat-square)
-![Downloads](https://img.shields.io/github/downloads/happyman09/search-anywhere/latest/total?style=flat-square)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/happyman09/search-anywhere)
+![GitHub Repo stars](https://img.shields.io/github/stars/happyman09/search-anywhere?style=social)
+![GitHub issues](https://img.shields.io/github/issues/happyman09/search-anywhere)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/happyman09/search-anywhere)
+
 
 # 🔥 Hotkey Clipboard Search Tool
 
