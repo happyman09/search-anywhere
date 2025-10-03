@@ -28,9 +28,9 @@ This lightweight Windows tool lets you search **Google** or **YouTube** directly
 ![search_anywhere!](assets/07_39_12_PM-2.jpg)
 
 ---
-## ▶️ RAW Unedited Demo Video:
+## ▶️ Watch Demo Video on YouTube:
 
-<a href="https://www.youtube.com/watch?v=Agijos7AhVQ" target="_blank">Watch Demo on YouTube</a>
+<a href="https://youtu.be/P3oOxORBe40?si=WC9tmGR6ftVgt6yj" target="_blank">Watch Demo on YouTube</a>
 
 ---
 # 📦 Installation & Usage
